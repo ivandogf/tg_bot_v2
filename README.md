@@ -14,9 +14,6 @@
 
 <div align="center">
 
-[![Telegram Bot](https://img.shields.io/badge/Telegram%20Bot-ACTIVE-brightgreen?style=for-the-badge&logo=telegram)](https://t.me/CSharpMasterBot)
-[![Status](https://img.shields.io/badge/Статус-🟢%20Online-success?style=for-the-badge)]()
-
 **Бот запущен и доступен 24/7**
 
 👉 [@CSharpMasterBot](https://t.me/CSharpMasterBot)
