@@ -43,7 +43,7 @@ tg_bot_v2/
 │   └── builder.py         # Построение интерфейса
 ├── utils/                 # Служебные функции
 │   └── json_manager.py    # Работа с данными
-└── data/                  # Данные (не выкладывается)
+└── data/                  # Данные
     ├── content.json       # Вопросы и уровни
     ├── users.json         # Прогресс пользователей
     └── lessons/           # HTML файлы уроков
@@ -59,7 +59,7 @@ tg_bot_v2/
 
 1. Клонируйте репозиторий:
 ```bash
-git clone https://github.com/YOUR_USERNAME/tg_bot_v2.git
+git clone https://github.com/ivandogf/tg_bot_v2.git
 cd tg_bot_v2
 ```
 
